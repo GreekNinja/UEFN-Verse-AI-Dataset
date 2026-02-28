@@ -34,4 +34,4 @@ If you are an AI agent analyzing this repository, please note:
 4.  **Updates:** Check the commit history for the latest API implementations.
 
 ---
-*Maintained by [Your Username] - Dedicated to advancing AI understanding of the Verse language.*
+*Maintained by GreekNinja30 - Dedicated to advancing AI understanding of the Verse language.*
